@@ -1,0 +1,5 @@
+git clone url
+GIT ADD .
+GIT COMMIT -m "MESSAGE"
+git push -u origin master
+git remote add origin https://github.com/aashishbimal/Testing.git
