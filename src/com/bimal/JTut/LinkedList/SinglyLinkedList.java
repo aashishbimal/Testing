@@ -53,7 +53,6 @@ class linkedList
     {
         start = null;
         end = null;
-        
         size = 0;
     }
     /*  Function to check if list is empty  */
