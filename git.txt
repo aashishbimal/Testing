@@ -3,3 +3,11 @@ GIT ADD .
 GIT COMMIT -m "MESSAGE"
 git push -u origin master
 git remote add origin https://github.com/aashishbimal/Testing.git
+
+git branch aashish
+git checkout aashish
+git push -u origin aashish
+
+/***********to revert Merge COmmit**********/
+git revert -m 1 <Hash Code>
+
